@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola! Mi nombre es Juan Pablo Aste 👋
+## ¿Quien Soy?
+
 
 <!--
 **JuanAste/JuanAste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
