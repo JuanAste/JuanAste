@@ -1,7 +1,7 @@
 ### Hola! Mi nombre es Juan Pablo Aste 👋
 
 ## ¿Quien Soy?
-Soy un joven Argentino apasionado por la tecnologia.
+Soy un programador fullstack argentino apacionado por el Back-end.
 
 ## ¿Que hago?
 Actualmente estoy estudiando programación full stack en Henry, donde he adquirido conocimientos en diseño web, JavaScript, CSS, HTML,
