@@ -1,7 +1,7 @@
 ### Hola! Mi nombre es Juan Pablo Aste 👋
 
 ## ¿Quien Soy?
-Soy Juan Pablo Aste, un joven Argentino apasionado por la tecnología.
+Soy un joven Argentino apasionado por la tecnologia.
 
 ## ¿Que hago?
 Actualmente estoy estudiando programación full stack en Henry, donde he adquirido conocimientos en diseño web, JavaScript, CSS, HTML,
