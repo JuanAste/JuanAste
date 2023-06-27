@@ -23,6 +23,11 @@ El bootcamp de Henry me ha permitido adquirir el conocimiento y la experiencia f
 - HTML
 - CSS
 
+
+## Puedes encontrarme en:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-aste-41a2ba266/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanpabloaste00@gmail.com)
 <!--
 **JuanAste/JuanAste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
